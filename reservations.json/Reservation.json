@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4",
+    "arrivalDate": "02.05.2020",
+    "breakfastIncluded": "False",
+    "departureDate": "22.05.2020",
+    "guest": "",
+    "noOfPersons": "3",
+    "roomFare": "210.5"
+  },
+  {
+    "id": "2",
+    "arrivalDate": "02.05.2020",
+    "breakfastIncluded": "False",
+    "departureDate": "22.05.2020",
+    "guest": "George",
+    "noOfPersons": "2",
+    "roomFare": "210.5"
+  },
+  {
+    "id": "3",
+    "arrivalDate": "02.05.2020",
+    "breakfastIncluded": "False",
+    "departureDate": "22.05.2020",
+    "guest": "Nelu",
+    "noOfPersons": "3",
+    "roomFare": "210.5"
+  },
+  {
+    "id": "5",
+    "arrivalDate": "20.05.2020",
+    "breakfastIncluded": "False",
+    "departureDate": "22.05.2020",
+    "guest": "fgkh",
+    "noOfPersons": "3",
+    "roomFare": "210.5"
+  }
+]
